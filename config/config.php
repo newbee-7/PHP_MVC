@@ -4,8 +4,8 @@ return [
     //数据库相关配置
     'db_host'           =>    '127.0.0.1',
     'db_user'           =>    'root',
-    'db_pwd'            =>    '',
-    'db_name'           =>    'labframe',
+    'db_pwd'            =>    '1234',
+    'db_name'           =>    'test',
     'db_table_prefix'   =>    'lab_',    //数据表前缀
     'db_charset'        =>    'utf8',
 
